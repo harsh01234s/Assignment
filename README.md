@@ -20,7 +20,7 @@ API integration with success message
 
 Clean layout with hover and transition effects
 
-# API Details
+## API Details
 
 POST: https://vernanbackend.ezlab.in/api/contact-us/
 Request:
@@ -53,3 +53,7 @@ Validation + loading states
 “Form Submitted” success toast
 
 Pixel-perfect and mobile-friendly UI
+
+## Postman Dump
+The API testing collection is available in:
+[`/postman/contact-api.postman_collection.json`](postman/contact-api.postman_collection.json)
